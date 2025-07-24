@@ -28,4 +28,4 @@ predict.py
 2. Import the dataset and the model
 3. In the terminal import gradio, numpy, os, and from tensorflow.keras.models import load_model
 4. Test the website by putting in the terminal "python gui.py"
-5. 
+   
