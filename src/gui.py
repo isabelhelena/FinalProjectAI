@@ -108,6 +108,6 @@ gr.Interface(
     description="Upload an image of a mole or skin lesion to receive a predicted risk category.",
     theme=gr.themes.Soft(primary_hue="sky", secondary_hue="slate"),
     css=custom_css
-).launch(share=True,  inline=False)
+).launch(share=True)
 
 
